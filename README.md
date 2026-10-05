@@ -1,5 +1,14 @@
 # Hi, I'm Manal 👋
 
+## Technologies
+
+- Java
+- Python
+- SQL
+- HTML
+- CSS
+- JavaScript
+- PHP
 <!--
 **manal664b/manal664b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
