@@ -9,6 +9,11 @@
 - CSS
 - JavaScript
 - PHP
+
+
+## Projects
+
+Projects and exercises developed during my studies.
 <!--
 **manal664b/manal664b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
